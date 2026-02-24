@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'MICHELIN-BLACK';
+        src: url('../assets/font/MICHELIN-BLACK.OTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'MICHELIN';
+        src: url('../assets/font/MICHELIN-BLACK.OTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
